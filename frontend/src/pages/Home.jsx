@@ -42,7 +42,7 @@ export default function Home() {
         </div>
 
         <img
-          src="https://images.unsplash.com/photo-1581093588401-22f63678d7a0"
+          src="https://itstrategy.tech/wp-content/uploads/2025/03/shutterstock_2267168307-1024x509.jpg"
           alt="medical"
           className="w-[480px] rounded-xl shadow"
         />
